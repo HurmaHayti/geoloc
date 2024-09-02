@@ -18,7 +18,7 @@ Location was limited to be within the United States.
 1. Get a free API Key at https://home.openweathermap.org/users/sign_up
 2. Use command prompt or powershell or git bash terminal to execute below commands.
 3. Clone the repository
-   `git clone https://github.com/HurmaHayti/GeoLocator.git`
+   `git clone https://github.com/HurmaHayti/geoloc.git`
 4. Inside the cloned project folder, execute `mvn clean install -Dapikey=<Your_Api_Key>`
 
 ### How to run
